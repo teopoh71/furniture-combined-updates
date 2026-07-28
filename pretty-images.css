@@ -1,0 +1,32 @@
+/* Unified ImageDo-style product presentation. */
+.card img,
+.product-image img,
+.photo img {
+  filter: saturate(1.045) contrast(1.035) brightness(1.018);
+  image-rendering: auto;
+}
+
+.card img {
+  object-fit: contain !important;
+  padding: 7px;
+  background: radial-gradient(circle at 50% 43%, #fff 0 55%, #f2ede4 100%) !important;
+  transform: scale(1.035);
+}
+
+.product-image,
+.photo {
+  background: radial-gradient(circle at 50% 44%, #fff 0 54%, #f2ede4 100%) !important;
+}
+
+.detail-image,
+#detailImage,
+.dialog-image-wrap {
+  background: radial-gradient(circle at 50% 44%, #fff 0 58%, #f2ede4 100%) !important;
+}
+
+.detail-image,
+#detailImage,
+.dialog-image-wrap img {
+  object-fit: contain !important;
+  filter: saturate(1.04) contrast(1.03) brightness(1.02);
+}

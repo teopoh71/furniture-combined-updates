@@ -1,0 +1,2546 @@
+{
+  "sourceSeries": 244,
+  "processedSeries": 234,
+  "skippedSeries": [
+    {
+      "series": "ZL 2107",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 2135",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 2163 GUCCINO",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 2635 DEADALUS",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 2902",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 3315",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 3781",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 3822",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 3825",
+      "reason": "no module dimensions detected"
+    },
+    {
+      "series": "ZL 3827",
+      "reason": "no module dimensions detected"
+    }
+  ],
+  "cropCount": 1092,
+  "exactMappings": 138,
+  "series": {
+    "FINLAY ZL 2631": {
+      "crops": 4,
+      "exactMappings": 2,
+      "labels": [
+        "1S(36KG)",
+        "2S(53KG)",
+        "3S(60KG)",
+        "模块 4"
+      ]
+    },
+    "FURISH ZL 2623": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "1S(42KG)",
+        "2S(60KG)",
+        "3S(67KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "HC 1026": {
+      "crops": 4,
+      "exactMappings": 2,
+      "labels": [
+        "1S",
+        "2S",
+        "3S",
+        "模块 4"
+      ]
+    },
+    "HC 8502": {
+      "crops": 10,
+      "exactMappings": 2,
+      "labels": [
+        "3S",
+        "2S",
+        "模块 3",
+        "2EL",
+        "模块 5",
+        "2NA",
+        "1ER",
+        "模块 8",
+        "CORNER",
+        "1ER"
+      ]
+    },
+    "HC 81032": {
+      "crops": 9,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "模块 2",
+        "模块 3",
+        "2EL / 2ER",
+        "1EL / 1ER",
+        "模块 6",
+        "1ER / 1EL",
+        "模块 8",
+        "模块 9"
+      ]
+    },
+    "KURGAN ZL 2629": {
+      "crops": 5,
+      "exactMappings": 3,
+      "labels": [
+        "模块 1",
+        "2S(49KG)",
+        "3S(61KG)",
+        "4S(80KG)",
+        "模块 5"
+      ]
+    },
+    "LAENNEC ZL 2630": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3"
+      ]
+    },
+    "LAVER ZL 2627": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "2EL",
+        "1ER/T",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "LYNX ZL 2195 LYNX": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S(36KG)",
+        "模块 2",
+        "3S(62KG)",
+        "模块 4"
+      ]
+    },
+    "MONTIERI ZL 2628": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "CORNER",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "PERNOD ZL 2632": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "2ER",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL2196 LYNX": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL2660": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "1EL",
+        "模块 3",
+        "模块 4",
+        "CORNER",
+        "模块 6",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2105": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3"
+      ]
+    },
+    "ZL 2108": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "模块 2",
+        "3S",
+        "模块 4"
+      ]
+    },
+    "ZL 2109": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "1EL/T",
+        "2NA",
+        "CORNER",
+        "2ER",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2110": {
+      "crops": 3,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3S"
+      ]
+    },
+    "ZL 2112": {
+      "crops": 6,
+      "exactMappings": 2,
+      "labels": [
+        "1S",
+        "模块 2",
+        "3S",
+        "模块 4",
+        "模块 5",
+        "2NA"
+      ]
+    },
+    "ZL 2122": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2128 SPOLETO": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2129": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 2138": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 2150 CRISSIER": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2153 VICHY": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2EL(536)",
+        "2ER(53KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2161": {
+      "crops": 5,
+      "exactMappings": 3,
+      "labels": [
+        "1S(32KG)",
+        "2S(54KG)",
+        "3S(60KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2165": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "1S(66KG)",
+        "2S",
+        "3S(120KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2169 LOLITA": {
+      "crops": 9,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "1EL",
+        "1NA(28KG)",
+        "1ER/T",
+        "模块 7",
+        "模块 8",
+        "模块 9"
+      ]
+    },
+    "ZL 2173 FRANSISCO": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "2ER",
+        "2EL(75KG)",
+        "2ER(75KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 2175 BOLERO": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2ER(63KG)",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2176": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "2S(55KG)",
+        "3S(64KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2179": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 2181": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "1S",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2193 MASTRATI": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2600 MANTIGO": {
+      "crops": 6,
+      "exactMappings": 1,
+      "labels": [
+        "1EL",
+        "AC",
+        "2NA / 1ER",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2601 VANSKOR": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "1S(45KG)",
+        "2S(67KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2603 BERNARD": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2612 PEGASUS": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2ER",
+        "模块 3",
+        "模块 4",
+        "3S",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 2617 GARBERT": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2618 DOPPIA": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2619 BOSHIN": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "2S(49KG)",
+        "3S(56KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2620 GETSPER": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "1S(60KG)",
+        "模块 2",
+        "3S(99KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 2621 MONTROUGE": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2625": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2633": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2636 EDGE": {
+      "crops": 8,
+      "exactMappings": 2,
+      "labels": [
+        "1S",
+        "模块 2",
+        "模块 3",
+        "2EL",
+        "模块 5",
+        "CORNER",
+        "2ER(S1KG)",
+        "模块 8"
+      ]
+    },
+    "ZL 2637 STORM": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2639 SAND": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2652 UNIQ": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2653": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2ER",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2656 OXYA": {
+      "crops": 7,
+      "exactMappings": 2,
+      "labels": [
+        "1S(40KG)",
+        "2S(58KG)",
+        "3S(62KG)",
+        "模块 4",
+        "2ER",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 2657 ADORI": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2658 PRATUM": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "1S(49KG)",
+        "2S(73KG)",
+        "3S(77KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2661 ATRIA": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "1S(37KG)",
+        "模块 2",
+        "3S(61KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2663 TAYLOR": {
+      "crops": 2,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2"
+      ]
+    },
+    "ZL 2665 SALORN": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 2666 MONAC": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1R/P(68KG)",
+        "2R/P(114KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2667 MALEX": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3S",
+        "模块 4",
+        "2ER",
+        "模块 6",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2668 ADDER": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2671 GENERAL": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 2672 VICE": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "1S",
+        "2S",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 2673 LASOPHIN": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2S(66KG)",
+        "3S(7T9KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 2675 CORSAIN": {
+      "crops": 6,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "CORNER",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2676": {
+      "crops": 7,
+      "exactMappings": 4,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "CORNER",
+        "2NA",
+        "1ER/T",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 2677 ROSWEN": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 2678": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1S(35KG)",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2680": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2ER",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2688": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "1NA",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2689": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2691": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3"
+      ]
+    },
+    "ZL 2692 ELODIE": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "2EL(82KG)",
+        "CORNER",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2693 FIXAT": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2696 BELCARO": {
+      "crops": 9,
+      "exactMappings": 3,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3S",
+        "2EL",
+        "CORNER",
+        "2NA",
+        "1ER",
+        "模块 8",
+        "模块 9"
+      ]
+    },
+    "ZL 2697 VILLA": {
+      "crops": 9,
+      "exactMappings": 3,
+      "labels": [
+        "2EL(59KG)",
+        "1ER",
+        "模块 3",
+        "1S",
+        "2S(62KG)",
+        "3S(74KG)",
+        "模块 7",
+        "模块 8",
+        "模块 9"
+      ]
+    },
+    "ZL 2699 VANERY": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2EL",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2700 ANTHONY": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "2EL(T1KG)",
+        "CORNER",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2702 CASCIA": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2703 HOZERD": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "2EL(68KG)",
+        "CORNER",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2705 COLONNA": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2706 MERLIN": {
+      "crops": 4,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "2S(61KG)",
+        "3S(81KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 2707 KANDER": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2709 STEPHAN": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "1EL",
+        "1EL",
+        "模块 5",
+        "1NA",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2800 SLIVNO": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "4ER",
+        "模块 4"
+      ]
+    },
+    "ZL 2802 TARZ": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "1S(45KG)",
+        "模块 2",
+        "模块 3",
+        "3S(83KG)",
+        "模块 5"
+      ]
+    },
+    "ZL 2803": {
+      "crops": 8,
+      "exactMappings": 1,
+      "labels": [
+        "1R/P",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "1NA(27KG)",
+        "1ER",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 2805": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2807": {
+      "crops": 5,
+      "exactMappings": 3,
+      "labels": [
+        "1S(41KG)",
+        "2S(65KG)",
+        "3S(74KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2807 BLENJ": {
+      "crops": 5,
+      "exactMappings": 3,
+      "labels": [
+        "1S(41KG)",
+        "2S(65KG)",
+        "3S(74KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2809": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2EL(49KG)",
+        "2EL",
+        "2NA",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2810": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "1S",
+        "模块 2",
+        "3S(77KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2811 GLAMOC": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2S(66KG)",
+        "3S(70KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 2812 ATELETA": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "1EL",
+        "1NA",
+        "1ER",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2813": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "2EL",
+        "1ER",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2815": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "1ER/T",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2816": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "2EL / 2ER(85KG)",
+        "模块 2",
+        "STOOL"
+      ]
+    },
+    "ZL 2818 MAIELLA": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "3EL",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2819": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3R/P",
+        "模块 4"
+      ]
+    },
+    "ZL 2819 MAGEN": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3R/P",
+        "模块 4"
+      ]
+    },
+    "ZL 2820": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1R/P",
+        "2R/P",
+        "3R/P",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2820 GALECIC": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1R/P",
+        "2R/P",
+        "3R/P",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2821 MORGIU": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2EL",
+        "1ER/T",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2822 ARES": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2827": {
+      "crops": 9,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "1ER",
+        "模块 4",
+        "2R/P",
+        "3R/P",
+        "模块 7",
+        "模块 8",
+        "模块 9"
+      ]
+    },
+    "ZL 2828 GORNDA": {
+      "crops": 6,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "2EL",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2829 SANTONNE": {
+      "crops": 4,
+      "exactMappings": 2,
+      "labels": [
+        "2EL",
+        "1ER/T",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2830 MIZAR": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 2831": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "2S(67KG)",
+        "3S",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2832 CASONE": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "CORNER",
+        "1ER",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2833 CAPELLA": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1R/P(60KG)",
+        "2R/P(110KG)",
+        "3R/P(135KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2835 FLANK": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2836 PLASCE": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S(36KG)",
+        "模块 2",
+        "3S(60KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 2837 AURELLA": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2EL(68KG)",
+        "2ER",
+        "2ER",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2838 YOGEL": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3"
+      ]
+    },
+    "ZL 2839 ASHEE": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "CORNER",
+        "2NA",
+        "1ER",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2850": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "2S",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2851": {
+      "crops": 7,
+      "exactMappings": 2,
+      "labels": [
+        "1EL",
+        "1NA",
+        "1EL",
+        "模块 4",
+        "模块 5",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 2852": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "CORNER",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2853 ABRUZZO": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2ER",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2855 BOZZA": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3S(55KG)"
+      ]
+    },
+    "ZL 2860": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "CORNER",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2861": {
+      "crops": 6,
+      "exactMappings": 2,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "CORNER",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2862 SPERANZA": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "1NA(24KG)",
+        "CORNER",
+        "模块 4"
+      ]
+    },
+    "ZL 2863 EMILIO": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "1ER",
+        "1NA(22KG)",
+        "模块 7"
+      ]
+    },
+    "ZL 2865 DEBUSSY": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2867 BORSEUT": {
+      "crops": 9,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "1EL",
+        "模块 5",
+        "1NA",
+        "模块 7",
+        "模块 8",
+        "模块 9"
+      ]
+    },
+    "ZL 2868 LAOREST": {
+      "crops": 7,
+      "exactMappings": 2,
+      "labels": [
+        "1S",
+        "2S(78KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 2870": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2S(68KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2872 CARLETTI": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2NA",
+        "CORNER",
+        "2ER(56KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2876 HOSHIUMI": {
+      "crops": 5,
+      "exactMappings": 2,
+      "labels": [
+        "2EL(56KG)",
+        "1ER/T",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2877 MUIICHIRO": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1EL/T",
+        "2ER(56KG)",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2878 TESSAI": {
+      "crops": 3,
+      "exactMappings": 2,
+      "labels": [
+        "2EL(46KG)",
+        "1ER(30KG)",
+        "模块 3"
+      ]
+    },
+    "ZL 2881 LAFAYETTE": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2ER(57KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2882 SARATOGA": {
+      "crops": 4,
+      "exactMappings": 3,
+      "labels": [
+        "1S",
+        "2S(51KG)",
+        "3S(58KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 2883 NORTSVILLE": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2886 BANNERMAN": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2888 MULLAGIR": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "1S",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2890 LEOMINSTER": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2892": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2895": {
+      "crops": 4,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "2S",
+        "3S",
+        "模块 4"
+      ]
+    },
+    "ZL 2896": {
+      "crops": 2,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2"
+      ]
+    },
+    "ZL 2897": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2898": {
+      "crops": 5,
+      "exactMappings": 3,
+      "labels": [
+        "1S(39KG)",
+        "2S(59KG)",
+        "3S(75KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 2899": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2900": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "CORNER",
+        "模块 2",
+        "2ER(44KG)",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2901": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 2906": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "1ER",
+        "模块 4"
+      ]
+    },
+    "ZL 2907": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "模块 2",
+        "3S(54KQ)",
+        "模块 4"
+      ]
+    },
+    "ZL 2908": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 2911": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2S(57KG)",
+        "3S(77KA)",
+        "模块 4"
+      ]
+    },
+    "ZL 2915": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3300": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "1S(25KG)",
+        "2S(64KG)",
+        "3S(73KG)"
+      ]
+    },
+    "ZL 3301": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S(31KG)",
+        "2S(49KG)",
+        "3S(59G)",
+        "模块 4"
+      ]
+    },
+    "ZL 3302": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3303": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "1S(37KG)",
+        "2S(58KG)",
+        "3S(80KG)"
+      ]
+    },
+    "ZL 3305": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "CORNER",
+        "2ER(T0KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3307": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3308": {
+      "crops": 1,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(62KG)"
+      ]
+    },
+    "ZL 3310": {
+      "crops": 3,
+      "exactMappings": 3,
+      "labels": [
+        "1NA(22KG)",
+        "CORNER",
+        "STOOL"
+      ]
+    },
+    "ZL 3311": {
+      "crops": 2,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(72KG)",
+        "1ER"
+      ]
+    },
+    "ZL 3312": {
+      "crops": 7,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "2S",
+        "3S",
+        "2EL(68KG)",
+        "模块 5",
+        "CORNER",
+        "模块 7"
+      ]
+    },
+    "ZL 3313": {
+      "crops": 3,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "2ER(64KG)",
+        "CORNER"
+      ]
+    },
+    "ZL 3316": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "2S",
+        "3S(81K)"
+      ]
+    },
+    "ZL 3317": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3318": {
+      "crops": 1,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(76KG)"
+      ]
+    },
+    "ZL 3319": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3321": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3"
+      ]
+    },
+    "ZL 3322": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3323": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(70KG)",
+        "1ER",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3325": {
+      "crops": 2,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(61KG)",
+        "1ER"
+      ]
+    },
+    "ZL 3326": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3328": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3329": {
+      "crops": 8,
+      "exactMappings": 1,
+      "labels": [
+        "1S",
+        "2S",
+        "3S(78K)",
+        "2EL(62K)",
+        "1ER(41KG)",
+        "STOOL",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 3701": {
+      "crops": 4,
+      "exactMappings": 3,
+      "labels": [
+        "1S",
+        "1EL(46KG)",
+        "1NA(34KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 3705": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "1ER",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3706": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1S(41KG)",
+        "2S(62KG)",
+        "3S(71KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3707": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3709": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "2S",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3710": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "1EL(44KG)",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3711": {
+      "crops": 6,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(59KG)",
+        "模块 2",
+        "2EL",
+        "1ER",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 3712": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(47KG)",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3713": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1S(34KG)",
+        "2S(57KG)",
+        "模块 3",
+        "3S(81KG)",
+        "模块 5"
+      ]
+    },
+    "ZL 3716": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3S(S7KG)",
+        "模块 4"
+      ]
+    },
+    "ZL 3717": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "2S",
+        "1S",
+        "2EL",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 3719": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3720": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "3S"
+      ]
+    },
+    "ZL 3721 PIANELLO": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "1R/P",
+        "1R/P",
+        "模块 3",
+        "1EL",
+        "1NA",
+        "1NA",
+        "模块 7"
+      ]
+    },
+    "ZL 3722": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "1NA",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3723 BEVAGNA": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3729": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3730 MONDAVIO": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "1ER",
+        "模块 2",
+        "1NA",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3731": {
+      "crops": 5,
+      "exactMappings": 3,
+      "labels": [
+        "1EL",
+        "1NA(31KG)",
+        "CORNER",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3733": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3735": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "1ER",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3737": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 3739": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "1ER",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 3750": {
+      "crops": 4,
+      "exactMappings": 1,
+      "labels": [
+        "2EL",
+        "1ER",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3751": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "3S",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3752": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3753 (4.2)": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "3S",
+        "模块 2",
+        "模块 3",
+        "1EL",
+        "2ER",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 3755 MULINO": {
+      "crops": 7,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "STOOL",
+        "模块 4",
+        "CORNER",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 3756 PADULE": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3757": {
+      "crops": 2,
+      "exactMappings": 2,
+      "labels": [
+        "2EL",
+        "1ER/T"
+      ]
+    },
+    "ZL 3759": {
+      "crops": 7,
+      "exactMappings": 2,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "CORNER",
+        "1ER/T",
+        "模块 5",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 3760": {
+      "crops": 7,
+      "exactMappings": 3,
+      "labels": [
+        "2EL(52KG)",
+        "2NA",
+        "CORNER",
+        "模块 4",
+        "模块 5",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 3761": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3769": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "1R/P",
+        "1R/P",
+        "模块 5",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 3772": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "1ER"
+      ]
+    },
+    "ZL 3773": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 3775": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3776": {
+      "crops": 9,
+      "exactMappings": 2,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "CORNER",
+        "STOOL",
+        "模块 5",
+        "模块 6",
+        "模块 7",
+        "模块 8",
+        "模块 9"
+      ]
+    },
+    "ZL 3780": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3782": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3785": {
+      "crops": 8,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "1EL",
+        "模块 3",
+        "模块 4",
+        "1R/P",
+        "1R/P",
+        "模块 7",
+        "模块 8"
+      ]
+    },
+    "ZL 3786": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3787": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 3789": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "2S(51KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3790": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "1S",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3795": {
+      "crops": 6,
+      "exactMappings": 1,
+      "labels": [
+        "2EL(494G)",
+        "1ER",
+        "模块 3",
+        "模块 4",
+        "模块 5",
+        "模块 6"
+      ]
+    },
+    "ZL 3797": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2EL",
+        "模块 2",
+        "1ER",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3799": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "3S",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3803 SASSA": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "模块 2",
+        "模块 3",
+        "1NA",
+        "模块 5",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 3806 BALMER": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "1ER",
+        "模块 3"
+      ]
+    },
+    "ZL 3809 LIGUNIA": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3810 ORIOLA": {
+      "crops": 5,
+      "exactMappings": 1,
+      "labels": [
+        "模块 1",
+        "3S(69KG)",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3811 CASANOL": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "3S",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3812 URBANA": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "2EL",
+        "CORNER",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 3816 BUBANO": {
+      "crops": 3,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3"
+      ]
+    },
+    "ZL 3817 MELFE": {
+      "crops": 1,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1"
+      ]
+    },
+    "ZL 3818 BURANO": {
+      "crops": 7,
+      "exactMappings": 0,
+      "labels": [
+        "1EL(S0KG)",
+        "模块 2",
+        "CORNER",
+        "模块 4",
+        "模块 5",
+        "模块 6",
+        "模块 7"
+      ]
+    },
+    "ZL 3819 ANCONA": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "2EL",
+        "2NA(62KG)",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 3820 ALCAMO": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 26605": {
+      "crops": 5,
+      "exactMappings": 0,
+      "labels": [
+        "1EL",
+        "1EL",
+        "模块 3",
+        "模块 4",
+        "模块 5"
+      ]
+    },
+    "ZL 26606": {
+      "crops": 6,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4",
+        "CORNER / 1ER",
+        "模块 6"
+      ]
+    },
+    "ZL 28292 SANTONNE": {
+      "crops": 4,
+      "exactMappings": 2,
+      "labels": [
+        "2EL",
+        "1ER/T",
+        "模块 3",
+        "模块 4"
+      ]
+    },
+    "ZL 37612": {
+      "crops": 4,
+      "exactMappings": 0,
+      "labels": [
+        "模块 1",
+        "模块 2",
+        "模块 3",
+        "模块 4"
+      ]
+    }
+  }
+}

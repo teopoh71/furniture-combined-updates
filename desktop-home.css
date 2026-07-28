@@ -1,0 +1,96 @@
+.desktop-home .shell {
+  width: min(1440px, calc(100% - 72px));
+  padding: 18px 0 34px;
+}
+
+.desktop-home .intro {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 430px;
+  align-items: end;
+  gap: 70px;
+  padding: 7vh 8px 48px;
+}
+
+.desktop-home .intro .eyebrow,
+.desktop-home .intro h1 {
+  grid-column: 1;
+}
+
+.desktop-home .intro h1 {
+  margin-bottom: 0;
+  font-size: clamp(58px, 6.2vw, 98px);
+}
+
+.desktop-home .intro p {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+  padding: 0 0 10px 34px;
+  border-left: 1px solid rgba(199, 162, 101, .48);
+  font-size: 16px;
+  line-height: 1.9;
+}
+
+.desktop-summary {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1px;
+  margin-bottom: 20px;
+  overflow: hidden;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: var(--line);
+}
+
+.desktop-summary div {
+  display: flex;
+  align-items: baseline;
+  gap: 14px;
+  padding: 17px 22px;
+  background: rgba(14, 25, 22, .92);
+}
+
+.desktop-summary strong {
+  color: var(--gold);
+  font: 700 22px/1 sans-serif;
+}
+
+.desktop-summary span {
+  color: var(--muted);
+  font: 12px/1 sans-serif;
+  letter-spacing: .08em;
+}
+
+.desktop-home .catalogs {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 20px;
+}
+
+.desktop-home .catalog {
+  min-height: 360px;
+  padding: 30px;
+  border-radius: 30px;
+}
+
+.desktop-home .catalog:hover {
+  transform: translateY(-5px);
+  border-color: rgba(199, 162, 101, .62);
+}
+
+.desktop-home .catalog h2 { font-size: 46px; }
+.desktop-home .catalog p { max-width: 390px; font-size: 15px; }
+.desktop-home .tag { font-size: 11px; }
+
+.desktop-home .catalog.zolano {
+  background:
+    linear-gradient(145deg, rgba(255, 255, 255, .1), rgba(17, 30, 26, .7)),
+    #15231f;
+}
+
+@media (max-width: 900px) {
+  .desktop-home .shell { width: min(100% - 20px, 760px); padding-top: 10px; }
+  .desktop-home .intro { display: block; }
+  .desktop-home .intro p { margin-top: 24px; padding-left: 0; border: 0; }
+  .desktop-summary { grid-template-columns: 1fr; }
+  .desktop-home .catalogs { grid-template-columns: 1fr; }
+  .desktop-home .catalog { min-height: 330px; }
+}
