@@ -18,6 +18,21 @@
   background: radial-gradient(circle at 50% 44%, #fff 0 54%, #f2ede4 100%) !important;
 }
 
+/* Product cards must show a complete, centred SKU without the old CSS zoom crop. */
+.product-image img,
+.photo img {
+  display: block;
+  object-fit: contain !important;
+  padding: 9px !important;
+  transform: scale(1.02) !important;
+  transform-origin: center center;
+  mix-blend-mode: multiply;
+}
+
+.product-card:active .product-image img {
+  transform: scale(1.045) !important;
+}
+
 .detail-image,
 #detailImage,
 .dialog-image-wrap {
