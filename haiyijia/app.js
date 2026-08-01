@@ -33,9 +33,23 @@
   const catalogTitle = document.querySelector("#catalogTitle");
   const dialog = document.querySelector("#productDialog");
 
+  const CHAIR_RETAIL_MULTIPLIER = 2.8;
+
+  const retailChairPrice = (rawPrice) => String(rawPrice).replace(/\d+(?:\.\d+)?/g, (value, offset, fullText) => {
+    const number = Number(value);
+    // Keep material grades such as "2.0生态皮" unchanged; prices and option add-ons
+    // are whole-number amounts in the supplier price sheet.
+    if (!Number.isFinite(number) || (number < 100 && value.includes(".") && /[\u4e00-\u9fff]/.test(fullText.slice(offset + value.length, offset + value.length + 4)))) {
+      return value;
+    }
+    const retail = number * CHAIR_RETAIL_MULTIPLIER;
+    return Number.isInteger(retail) ? String(retail) : retail.toFixed(2).replace(/\.00$/, "");
+  });
+
   const priceText = (product) => {
     const raw = String(product.price || "").trim().replace(/[\r\n]+/g, " / ");
-    return raw ? `¥ ${raw}` : "价格待确认";
+    if (!raw) return "价格待确认";
+    return `¥ ${productStyle(product) === "table" ? raw : retailChairPrice(raw)}`;
   };
 
   const normalized = (value) => String(value || "").toLowerCase().replace(/\s+/g, "");
