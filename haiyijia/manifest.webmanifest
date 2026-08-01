@@ -1,6 +1,6 @@
 {
-  "name": "嗨一家产品库",
-  "short_name": "嗨一家",
+  "name": "ZOLANO 产品目录",
+  "short_name": "ZOLANO",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#f4f0e8",
