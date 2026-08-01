@@ -202,6 +202,7 @@ main { width: min(100%, 980px); margin: 0 auto; }
 .product-material { display: -webkit-box; min-height: 32px; margin-top: 8px; overflow: hidden; color: #6d746f; font: 11px/1.45 sans-serif; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
 
 .load-more { display: block; width: 100%; margin: 18px 0 0; padding: 15px; border: 1px solid var(--ink); border-radius: 15px; background: transparent; font-weight: 700; }
+.load-sentinel { height: 1px; margin-top: 1px; }
 .empty-state { padding: 48px 20px; text-align: center; }
 .empty-state strong, .empty-state span { display: block; }
 .empty-state span { margin-top: 8px; color: #727873; font-size: 13px; }

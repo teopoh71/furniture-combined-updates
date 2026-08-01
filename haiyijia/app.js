@@ -27,7 +27,7 @@
   const grid = document.querySelector("#productGrid");
   const searchInput = document.querySelector("#searchInput");
   const clearSearch = document.querySelector("#clearSearch");
-  const loadMore = document.querySelector("#loadMore");
+  const loadSentinel = document.querySelector("#loadSentinel");
   const emptyState = document.querySelector("#emptyState");
   const resultCount = document.querySelector("#resultCount");
   const catalogTitle = document.querySelector("#catalogTitle");
@@ -99,8 +99,7 @@
       ? `搜索“${state.query}”`
       : [materialTitle, styleTitle].filter(Boolean).join(" · ") || "全部产品";
     emptyState.hidden = matched.length !== 0;
-    loadMore.hidden = visible.length >= matched.length;
-    loadMore.textContent = `继续显示（还有 ${matched.length - visible.length} 款）`;
+    loadSentinel.hidden = visible.length >= matched.length;
   };
 
   const openProduct = (product) => {
@@ -151,7 +150,14 @@
 
   searchInput.addEventListener("input", () => { state.query = searchInput.value.trim(); state.limit = 48; render(); });
   clearSearch.addEventListener("click", () => { searchInput.value = ""; state.query = ""; render(); searchInput.focus(); });
-  loadMore.addEventListener("click", () => { state.limit += 48; render(); });
+  const loadObserver = new IntersectionObserver((entries) => {
+    if (!entries.some((entry) => entry.isIntersecting)) return;
+    const matched = filteredProducts();
+    if (state.limit >= matched.length) return;
+    state.limit += 48;
+    render();
+  }, { rootMargin: "640px 0px" });
+  loadObserver.observe(loadSentinel);
   document.querySelector("#closeDialog").addEventListener("click", () => dialog.close());
   dialog.addEventListener("click", (event) => { if (event.target === dialog) dialog.close(); });
   document.querySelector("#scrollTopButton").addEventListener("click", () => window.scrollTo({ top: 0, behavior: "smooth" }));
