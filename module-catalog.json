@@ -1,0 +1,27 @@
+{
+  "modules": [
+    {
+      "id": "zolano-furniture",
+      "name": "ZOLANO 家具",
+      "subtitle": "综合产品目录",
+      "description": "集合平台产品、型号与零售价；联网时自动显示最新内容。",
+      "emoji": "Z",
+      "color": "17231F",
+      "version": "1.3.6",
+      "kind": "WEB",
+      "entry": "https://teopoh71.github.io/furniture-combined-updates/index.html"
+    },
+    {
+      "id": "zolano-furniture-apk",
+      "name": "ZOLANO 独立安装包",
+      "subtitle": "Android APK",
+      "description": "下载后由 MatePad 系统安装器确认安装，可在后台完成下载。",
+      "emoji": "↓",
+      "color": "E65A2F",
+      "version": "1.3.6",
+      "kind": "APK",
+      "entry": "https://teopoh71.github.io/furniture-combined-updates/ZOLANO-furniture-v1.3.6.apk",
+      "packageName": "com.edwin.furnitureduo"
+    }
+  ]
+}
